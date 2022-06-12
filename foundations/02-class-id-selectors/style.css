@@ -1,0 +1,19 @@
+.default {
+    background-color: rgb(253, 129, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.coolClass {
+    font-size: 24px;
+}
+
+#numberOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#numberTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
